@@ -19,13 +19,13 @@
 	"popAppPackage": "cee",
 	"popAppIsActive": false,
 
-	"APP_KEY": "12558d",
+	"APP_KEY": "12955e395",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"admob_banner": "ca-app-pub-39402560544/6300978111",
 	"admob_inter": "ca-app-pub-39402560944/1033173712",
 
-	"whichAds": 0
+	"whichAds": 1
 
 }
