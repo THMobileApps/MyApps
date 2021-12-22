@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":  "ca-app-pub-3940256099942544/1033173712",
+	"admob_banner": "ca-app-pub-9344738296658987/4917515726",
+	"admob_inter":  "ca-app-pub-9344738296658987/5390807370",
 
 	"APP_KEY": "11f99d",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -21,6 +21,6 @@
 	"URL" : "https://www.dollartree.com/",
 
 	"isAdsActivated1":false,
-	"isAdsActivated2":false
+	"isAdsActivated2":true
 
 }
