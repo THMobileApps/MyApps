@@ -1,0 +1,11 @@
+{
+ 
+    "admob_banner":"",
+    "admob_inter":"",
+
+    "APP_KEY" : "fcdac9",
+    "BANNER_PLACEMENT" : "DefaultInterstitial",
+    "INTERSTITIAL_PLACEMENT" : "DefaultBanner",
+
+    "whichAds":1
+}
