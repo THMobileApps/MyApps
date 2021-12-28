@@ -3,11 +3,11 @@
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter":  "ca-app-pub-3940256099942544/1033173712",
 
-	"APP_KEY": "11f99d",
+	"APP_KEY": "12b7d27bd",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -18,9 +18,9 @@
 	"BUTTON_NAME_1": "Shop Now",
 	"BUTTON_NAME_2": "Begin Shopping",
 
-	"URL" : "https://sites.google.com/view/tom-developer-privacy-policy",
+	"URL" : "https://www.zales.com/",
 
-	"isAdsActivated1":false,
-	"isAdsActivated2":false
+	"isAdsActivated1":true,
+	"isAdsActivated2":true
 
 }
