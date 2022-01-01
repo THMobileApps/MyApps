@@ -1,0 +1,31 @@
+{
+
+	"bodies": [{
+		"step": "Step 1"
+	}, {
+		"step": "Step 2"
+	}, {
+		"step": "Step 3"
+	}, {
+		"step": "S^tep 4"
+	}, {
+		"step": "Step 5"
+	}],
+
+
+	"popAppLink": "hi/",
+	"popAppName": "Follow Us for more Apps",
+	"popAppImage": "g",
+	"popAppPackage": "cee",
+	"popAppIsActive": false,
+
+	"APP_KEY": "12538d",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"admob_banner": "ca-app-pub-3940256099544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099944/1033173712",
+
+	"whichAds": 1
+
+}
