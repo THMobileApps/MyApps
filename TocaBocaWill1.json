@@ -13,11 +13,11 @@
 	}],
 
 
-	"popAppLink": "hi/",
-	"popAppName": "Follow Us for more Apps",
-	"popAppImage": "g",
-	"popAppPackage": "cee",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.plinko.simulator",
+	"popAppName": "Plinko stake",
+	"popAppImage": "https://play-lh.googleusercontent.com/FJ51LEPAa2xIoBFCIB0uh1SEg9TZmAeLFJXR0jqJTMKWlUNnLaf8OMA4NuFjUwbPhA",
+	"popAppPackage": "com.plinko.simulator",
+	"popAppIsActive": true,
 
 	"APP_KEY": "12dd1d135",
 	"BANNER_PLACEMENT": "DefaultBanner",
