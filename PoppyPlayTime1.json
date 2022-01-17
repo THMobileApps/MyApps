@@ -26,19 +26,16 @@
 	],
 
 
-	"popAppLink": "hi/",
-	"popAppName": "Follow Us for more Apps",
-	"popAppImage": "g",
-	"popAppPackage": "cee",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+	"popAppName": "Facebook",
+	"popAppImage": "https://img1.freepng.fr/20180604/vov/kisspng-facebook-inc-farmville-facebook-query-language-f-facebook-template-5b15de6899f786.1656511615281598486307.jpg",
+	"popAppPackage": "com.facebook.katana",
+	"popAppIsActive": true,
 
-	"APP_KEY": "129d",
+	"APP_KEY": "12f2d4085",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"admob_banner": "ca-app-pub-3940256099544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099944/1033173712",
-
-	"whichAds": 1
+	"whichAds": 0
 
 }
