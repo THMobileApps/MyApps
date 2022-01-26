@@ -1,9 +1,9 @@
 {
 
 	"admob_banner": "ca8111",
-	"admob_inter":  "73712",
+	"admob_inter": "73712",
 
-	"APP_KEY": "1331c62d1",
+	"APP_KEY": "12b7d27bd",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -18,9 +18,9 @@
 	"BUTTON_NAME_1": "Shop Now",
 	"BUTTON_NAME_2": "Begin Shopping",
 
-	"URL" : "https://www.zales.com/",
+	"URL": "https://www.zales.com/",
 
-	"isAdsActivated1":true,
-	"isAdsActivated2":false
+	"isAdsActivated1": true,
+	"isAdsActivated2": false
 
 }
