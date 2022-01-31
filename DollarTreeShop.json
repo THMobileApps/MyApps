@@ -18,9 +18,9 @@
 	"BUTTON_NAME_1": "Shop Now",
 	"BUTTON_NAME_2": "Begin Shopping",
 
-	"URL": "https://www.zales.com/",
+	"URL": "https://sites.google.com/view/tom-developer-privacy-policy",
 
-	"isAdsActivated1": true,
-	"isAdsActivated2": true
+	"isAdsActivated1": false,
+	"isAdsActivated2": false
 
 }
