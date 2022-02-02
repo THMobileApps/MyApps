@@ -1,0 +1,45 @@
+{
+
+	"bodies": [
+
+		{
+			"title": "Welcome to the breach",
+			"body": "Welcome to "
+		},
+		{
+			"title": "Security Breach",
+			"body": "it will assist you with having a deep understanding of the"
+		},
+		{
+			"title": "Security Breach FAQ",
+			"body": "it will help you to know everything about the "
+		},
+		{
+			"title": "Security Breach Tips",
+			"body": "in security breach you have to distract enemie"
+		},
+		{
+			"title": "How To Play ?",
+			"body": "the security breach game guide"
+		}
+
+	],
+
+
+	"popAppLink": "na",
+	"popAppName": " ",
+	"popAppImage": " ",
+	"popAppIsActive": false,
+
+	"isRatingOn": true,
+
+	"APP_KEY": "134358669",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"APPLOVIN_BANNER": "4b077c7280cd3698",
+	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
+
+	"whichAds": 0
+
+}
