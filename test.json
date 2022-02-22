@@ -1,0 +1,22 @@
+{
+
+	"popAppLink": "h",
+	"popAppName": "Fak",
+	"popAppImage": "htg",
+	"popAppIsActive": false,
+
+	"isRatingOn": true,
+
+	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "137ec96a9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"APPLOVIN_BANNER": "4b077c7280cd3698",
+	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
+
+	"whichAds": 0
+
+}
