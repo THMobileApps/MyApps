@@ -37,9 +37,9 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"APPLOVIN_BANNER": "4b077c7280cd3698",
-	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
+	"APPLOVIN_BANNER": "e0958475c80a426c",
+	"APPLOVIN_INTERSTITIAL": "d8d5472ba97301ae",
 
-	"whichAds": 0
+	"whichAds": 1
 
 }
