@@ -3,5 +3,5 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 	"URL": "https://www.wilko.com/",
-	"isWebViewTurnedOnfalse": true
+	"isWebViewTurnedOn": true
 }
