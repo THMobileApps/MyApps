@@ -1,7 +1,7 @@
 {
-	"APP_KEY": "13ea355a9",
+	"APP_KEY": "13ea35",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 	"URL": "https://www.wilko.com/",
-	"isWebViewTurnedOn": true
+	"isWebViewTurnedOn": false
 }
