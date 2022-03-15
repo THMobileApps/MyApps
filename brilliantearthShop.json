@@ -18,6 +18,9 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL":"https://www.boohoo.com/"
+	"URL": "https://www.boohoo.com/",
+
+	"isAdsActivated1": true,
+	"isAdsActivated2": true
 
 }
