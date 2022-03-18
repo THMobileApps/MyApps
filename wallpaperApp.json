@@ -59,7 +59,26 @@
 		}
 
 
-	]
+	],
+
+
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "13ea355a9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"whichAds": 0,
+
+	"More_Apps": "https://play.google.com/store/apps/developer?id=Meta+Platforms,+Inc.",
+
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
+	"popAppIsActive": ""
+
 
 
 
