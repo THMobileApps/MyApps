@@ -1,0 +1,26 @@
+{
+
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "13ea355a9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"whichAds": 0,
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+
+	"BUTTON_NAME_1": "Begin Now",
+	"BUTTON_NAME_2": "Go Show",
+
+	"URL": "https://www.brilliantearth.com/",
+
+	"isAdsActivated1": false,
+	"isAdsActivated2": false
+
+}
