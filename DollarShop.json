@@ -1,9 +1,9 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_banner": "ca-app-pub-9942544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
 
-	"APP_KEY": "13ea355a9",
+	"APP_KEY": "13e5a9",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -18,7 +18,7 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL": "https://www.wilko.com/",
+	"URL": "https://www.dollartree.com/",
 
 	"isAdsActivated1": false,
 	"isAdsActivated2": false
