@@ -1,0 +1,85 @@
+{
+
+
+	"wallpapers": [
+
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s1.png",
+			"image_name": "Squid Game",
+			"image_views": "2.4k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s2.png",
+			"image_name": "Squid Game",
+			"image_views": "4.5k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s3.png",
+			"image_name": "Squid Game",
+			"image_views": "10.1k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s4.png",
+			"image_name": "Squid Game",
+			"image_views": "7.0k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s5.png",
+			"image_name": "Squid Game",
+			"image_views": "1.3k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s6.png",
+			"image_name": "Squid Game",
+			"image_views": "9.2k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s7.png",
+			"image_name": "Squid Game",
+			"image_views": "11.7k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s8.png",
+			"image_name": "Squid Game",
+			"image_views": "7.8k"
+		},
+		{
+
+			"image_url": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/s9.png",
+			"image_name": "Squid Game",
+			"image_views": "5.6k"
+		}
+
+
+	],
+
+
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3956099942544/1033173712",
+
+	"APP_KEY": "13ea355a9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"whichAds": 0,
+
+	"More_Apps": "https://play.google.com/store/apps/developer?id=Meta+Platforms,+Inc.",
+
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
+	"popAppIsActive": false
+
+
+
+
+}
