@@ -1,0 +1,37 @@
+{
+
+
+	"jewellery": [{
+
+			"name": "Ring",
+			"discount": "10% Off",
+			"category": "rings",
+			"price": "45$",
+			"color": "fff000",
+			"imageUrl": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png"
+
+		}, {
+
+			"name": "Ring",
+			"discount": "10% Off",
+			"category": "rings",
+			"price": "45$",
+			"color": "fff000",
+			"imageUrl": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png"
+
+		}, {
+
+			"name": "Ring",
+			"discount": "10% Off",
+			"category": "rings",
+			"price": "45$",
+			"color": "fff000",
+			"imageUrl": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png"
+
+		}
+
+	]
+
+
+
+}
