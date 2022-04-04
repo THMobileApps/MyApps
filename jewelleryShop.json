@@ -1,37 +1,139 @@
 {
+	"categories": [
 
-
-	"jewellery": [{
-
-			"name": "Ring",
-			"discount": "10% Off",
-			"category": "rings",
-			"price": "45$",
-			"color": "fff000",
-			"imageUrl": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png"
-
+		{
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
+			"name": "Charms",
+			"items": [{
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms1.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms2.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms3.png"
+			}]
 		}, {
-
-			"name": "Ring",
-			"discount": "10% Off",
-			"category": "rings",
-			"price": "45$",
-			"color": "fff000",
-			"imageUrl": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png"
-
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets.png",
+			"name": "Bracelets",
+			"items": [{
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets1.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets2.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets3.png"
+			}]
 		}, {
-
-			"name": "Ring",
-			"discount": "10% Off",
-			"category": "rings",
-			"price": "45$",
-			"color": "fff000",
-			"imageUrl": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png"
-
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings.png",
+			"name": "Rings",
+			"items": [{
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings1.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings2.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings3.png"
+			}]
+		}, {
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings.png",
+			"name": "Earrings",
+			"items": [{
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings1.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings2.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings3.png"
+			}]
+		}, {
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces.png",
+			"name": "Necklaces",
+			"items": [{
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces1.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces2.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces3.png"
+			}]
+		},
+		{
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new.png",
+			"name": "New",
+			"items": [{
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new1.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new2.png"
+			}, {
+				"name": "Ring",
+				"discount": "10% Off",
+				"price": "45$",
+				"color": "fff000",
+				"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new3.png"
+			}]
 		}
-
 	]
-
-
-
 }
