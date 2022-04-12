@@ -9,11 +9,11 @@
 
 	"whichAds": 0,
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.KayShop.ShopNowApp",
+	"popAppName": "Download Update Now",
+	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/kay_logo.png",
+	"popAppPackage": "com.help.com",
+	"popAppIsActive": true,
 
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
