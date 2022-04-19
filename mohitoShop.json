@@ -18,12 +18,12 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL": "https://www.brilliantearth.com/",
+	"URL": "https://www.mohito.com/",
 
 	"isAdsActivated1": true,
 	"isAdsActivated2": true,
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
