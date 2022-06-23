@@ -4,7 +4,7 @@
 	"admob_inter": "12",
 	"admob_native": "ca-app-p4/7244635786",
 
-	"APP_KEY": "1f8f1",
+	"APP_KEY": "155cd52c1",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -26,7 +26,7 @@
 	"URL": "https://www.maisonsdumonde.com/",
 
 	"isAdsActivated1": false,
-	"isAdsActivated2": false,
+	"isAdsActivated2": true,
 
 	"isInReview": false,
 
